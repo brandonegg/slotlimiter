@@ -1,0 +1,8 @@
+name: SlotLimiter
+main: me.bman7842.slotlimiter.SlotLimiter
+version: 0.2
+author: bman7842
+description: A simple plugin that prevents users from being able to use specific slots.
+commands:
+  sl:
+    description: Main Slot Limiter command

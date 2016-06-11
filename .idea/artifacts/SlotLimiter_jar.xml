@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SlotLimiter:jar">
+    <output-path>$USER_HOME$/Desktop/MCTestServer/plugins</output-path>
+    <root id="archive" name="SlotLimiter(Maven).jar">
+      <element id="module-output" name="SlotLimiter(Maven)" />
+    </root>
+  </artifact>
+</component>

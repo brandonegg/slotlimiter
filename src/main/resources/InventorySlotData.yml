@@ -1,0 +1,15 @@
+# Thank you for installing SlotLimiter by Beeman
+# If you have any questions or you notice an issue please report it to bman on Spigot or Twitter (@bman7842 on both)
+# Please visit this plugin's spigot resource page and consider donating to me, this plugin is completely free however
+# I spend a lot of time working on it and would appreciate support so I can buy better equipment.
+
+# Main is a list that stores all blocked inventory slots, this can be edited in directly in here or in game using /sl configure
+# It takes numbers, each number represents a slot, 0-40 are the slot numbers (search google to see the number layout)
+# Blocking armor and secondary slot is not recommended in version 0.2 or lower because it is not supported at this time.
+# EXAMPLE:
+# main:
+# - 0
+# - 1
+# - 3
+
+main:
